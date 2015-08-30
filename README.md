@@ -18,6 +18,11 @@ Examples:
 #### Labels / Categories
 
 * [All gameplay bugs](https://github.com/HearthSim/hs-bugs/labels/gameplay)
-* [All UI bugs](https://github.com/HearthSim/hs-bugs/labels/visual)
-* [All visual (display) bugs](https://github.com/HearthSim/hs-bugs/labels/display)
+* Non-gameplay bugs
+ * [Audio bugs](https://github.com/HearthSim/hs-bugs/labels/audio)
+ * [UI issues](https://github.com/HearthSim/hs-bugs/labels/ui)
+ * [Animation issues](https://github.com/HearthSim/hs-bugs/labels/animations)
+ * [Power History sidebar issues](https://github.com/HearthSim/hs-bugs/labels/sidebar)
+ * [Spectator bugs](https://github.com/HearthSim/hs-bugs/labels/spectator)
+ * [Other display bugs](https://github.com/HearthSim/hs-bugs/labels/display)
 * [Fixed bugs](https://github.com/HearthSim/hs-bugs/issues?q=is%3Aissue+label%3Afixed+is%3Aclosed)
