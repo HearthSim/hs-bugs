@@ -12,7 +12,7 @@ https://github.com/HearthSim/hs-bugs/issues
 Milestones are used to determine when a bug was last *tested*
 (for open bugs), or when a bug was *fixed* (for closed bugs).
 Examples:
-* [Known bugs in 7.0.0 (TGT)](https://github.com/HearthSim/hs-bugs/milestones/7.0.0.15590)
+* [Known bugs in 7.0.0 (MSG)](https://github.com/HearthSim/hs-bugs/milestones/7.0.0.15590)
 * [Bugs fixed in 7.0.0 (MSG)](https://github.com/HearthSim/hs-bugs/issues?q=milestone%3A7.0.0.15590+is%3Aclosed)
 * [Bugs fixed in 3.0.0 (TGT)](https://github.com/HearthSim/hs-bugs/issues?q=milestone%3A3.0.0.9786+is%3Aclosed)
 
