@@ -18,6 +18,8 @@ Examples:
 
 #### Labels / Categories
 
+For more information, see the [wiki page](https://github.com/HearthSim/hs-bugs/wiki/Labels)
+
 * Gameplay issues
   * [Adventure](https://github.com/HearthSim/hs-bugs/labels/adventure)
   * [Brawl](https://github.com/HearthSim/hs-bugs/labels/brawl)
