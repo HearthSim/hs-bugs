@@ -15,7 +15,7 @@ Issues are used to track bugs. Milestones and Labels are used to categorize each
 
 #### Milestones
 
-Milestones are used to determine when a bug was last *tested* (for open bugs), or when a bug was *fixed* (for closed bugs).
+[Milestones](https://github.com/HearthSim/hs-bugs/milestones) are used to determine when a bug was last *tested* (for open bugs), or when a bug was *fixed* (for closed bugs).
 
 Examples:
 * [Known bugs in 7.0.0 (MSG)](https://github.com/HearthSim/hs-bugs/milestones/7.0.0.15590)
@@ -24,7 +24,7 @@ Examples:
 
 #### Labels
 
-Labels describe the category that an issue fits in. For more information, see the [wiki page](https://github.com/HearthSim/hs-bugs/wiki/Labels).
+[Labels](https://github.com/HearthSim/hs-bugs/labels) describe the category that an issue fits in. For more information, see the [wiki page](https://github.com/HearthSim/hs-bugs/wiki/Labels).
 
 Examples:
 * [Adventure](https://github.com/HearthSim/hs-bugs/labels/adventure)
