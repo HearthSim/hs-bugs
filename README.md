@@ -1,4 +1,4 @@
-# Hearthstone Bugs
+## Hearthstone Bugs
 
 This is an unofficial issue tracker for Hearthstone.
 
